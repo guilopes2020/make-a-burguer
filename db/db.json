@@ -90,18 +90,6 @@
       "status": "Solicitado"
     },
     {
-      "id": "08ce",
-      "nome": "laklakla",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Cebola roxa",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
-    },
-    {
       "id": "aa29",
       "nome": "sdfsdfs",
       "carne": "Picanha",
@@ -110,18 +98,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "0c4f",
-      "nome": "Guilherme Lopes",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
       "id": "7aee",
@@ -132,19 +109,18 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Solicitado"
+      "status": "Finalizado"
     },
     {
-      "id": "da7a",
-      "nome": "paca loka",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
+      "id": "5107",
+      "nome": "Robson",
+      "carne": "Veggie burger",
+      "pao": "Integral",
       "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Pepino"
+        "Salame",
+        "Bacon"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     }
   ]
 }
