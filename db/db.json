@@ -133,6 +133,18 @@
         "Cheddar"
       ],
       "status": "Solicitado"
+    },
+    {
+      "id": "da7a",
+      "nome": "paca loka",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Pepino"
+      ],
+      "status": "Solicitado"
     }
   ]
 }
