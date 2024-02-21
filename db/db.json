@@ -87,7 +87,19 @@
         "Cebola roxa",
         "Tomate"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
+    },
+    {
+      "id": "08ce",
+      "nome": "laklakla",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Finalizado"
     },
     {
       "id": "aa29",
@@ -98,7 +110,18 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Em produção"
+      "status": "Solicitado"
+    },
+    {
+      "id": "0c4f",
+      "nome": "Guilherme Lopes",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Finalizado"
     },
     {
       "id": "7aee",
@@ -109,18 +132,7 @@
         "Salame",
         "Cheddar"
       ],
-      "status": "Finalizado"
-    },
-    {
-      "id": "5107",
-      "nome": "Robson",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Salame",
-        "Bacon"
-      ],
-      "status": "Em produção"
+      "status": "Solicitado"
     }
   ]
 }
